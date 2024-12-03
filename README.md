@@ -17,10 +17,10 @@
 ![IDEA](/image/idea.jpg "Optional Title") 
 
 ## Project Images  
-# create the short id
+# Create a ShortId
 ![URL](/image/POST.png "Optional Title")
-<br>
-# Get the data about link
+
+# Get the Click Count about a link
 ![DATA](/image/Data_get.png "Optional Title")
 
 ---
@@ -29,7 +29,6 @@
 
 ```bash
 1. npm install
-<br>
 2. npm start
 ```  
 
